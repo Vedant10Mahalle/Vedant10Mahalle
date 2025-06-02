@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Mahalle</h1>
 <h3 align="center">A passionate Robotics & AI student building AI-powered Drones and Bots</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 - 🌱 I’m currently learning **ROS 2, Machine Learning, TensorFlow, URDF**
 - 🔭 I’m currently working on ** | Swarm AI Drones | Surveillance Robot**
